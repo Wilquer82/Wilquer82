@@ -1,0 +1,27 @@
+.m-links li{
+    display:inline-block;
+    background-color: cadetblue;
+    width: 30%}
+
+.Titulo{
+    text-align:center;}
+
+.Stitulo {
+    text-align:center;}
+
+section {
+    text-align: justify;
+    width: 600px;}
+
+
+    .classif li {
+    text-align:center;
+    background-color:deepskyblue;
+    width: 600px;}
+footer{
+    background-color: cadetblue;
+    background-origin: padding-box;
+    border-style: solid;
+    text-align: center;
+}
+    

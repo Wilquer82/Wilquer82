@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá, sou Wilquer Figueiredo, Developer FullStack em Treinamento, pai de familia.
+### Amo novos desafios e maneiras de melhorar antigos processos e caminhos.
+### Dispinível para trabalho Home Work, e in-loco com ressalvas.
+### Conhecimentos em: HTML, CSS, JAVASCRIPT, GIT/GITHUB, REACT, REDUX.👋
 
 <!--
 **Wilquer82/Wilquer82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

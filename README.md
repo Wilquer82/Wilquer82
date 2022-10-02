@@ -6,4 +6,4 @@
 ### / C# / DOT NET / JAVA / PYTHON / ANGULAR 👋
 <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/Wilquer82/count.svg" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiWilquer82anuraghazra&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/Wilquer82/anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
